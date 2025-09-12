@@ -12,6 +12,6 @@ const menor=idades.filter((v2)=>{
     }
 })
 
-console.log(idades)
-console.log(maior)
-console.log(menor)
+console.log(idades);
+console.log(maior);
+console.log(menor);
