@@ -1,3 +1,4 @@
+//metodo reduce
 const p_array=document.querySelector("#array");
 const btnReduzir=document.querySelector("#btnReduzir");
 const resultado=document.querySelector("#resultado");
@@ -15,5 +16,5 @@ btnReduzir.addEventListener("click",(evt)=>{
         return atual+anterior;
     })
     resultado.innerHTML+="<br/>Anterior: "+ant+"<br/>Atual: "+atu
-    
+
 })
