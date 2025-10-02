@@ -1,3 +1,4 @@
+//continuação de Arrays
 const btn_soma=document.querySelector("#btn_soma")
 const btn_subtracao=document.querySelector("#btn_subtracao")
 const btn_multiplicacao=document.querySelector("#btn_multiplicacao")
